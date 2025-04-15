@@ -101,8 +101,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidzzz19&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzzz19&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidzzz19&show_icons=true&theme=radical&cache_seconds=1800" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzzz19&layout=compact&theme=radical&cache_seconds=1800" width="350"/>
 </p>
 
 ---
