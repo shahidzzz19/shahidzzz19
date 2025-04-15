@@ -117,3 +117,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" style="border-radius: 10px;" alt="Instagram"/>
   </a>
 </p>
+
+
+![snake gif](https://github.com/shahidzzz19/shahidzzz19/blob/output/github-snake-dark.svg)
