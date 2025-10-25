@@ -10,7 +10,7 @@
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgyb3Z0bjcydDF1MG5rd2s3amxmeGYyZGI1bzZmNnZwNGt2bzhjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GILtOJNiFgtZS/giphy.gif" width="200"/>
 </h1>
 
-<h3 align="center">2nd-year ISE Student | Web & UI Developer | AI Enthusiast | Culinary Artist</h3>
+<h3 align="center">3rd-year ISE Student | Web & UI Developer | AI Enthusiast | Culinary Artist</h3>
 
 ---
 
