@@ -1,5 +1,5 @@
 <!-- Banner -->
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHQdX6y2P6AVA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726759531637?e=1765411200&v=beta&t=a9Z20_QXVdHWgIs3TowXSsNY9YnTFtMcEDl3wohv8h0)](https://www.linkedin.com/in/mohammed-shahid-sait-jii/)
+[![MasterHead](https://drive.google.com/file/d/1l7ZH_2zKhUVzwbhLq_U6MtHoD28PWW4m/view?usp=sharing)](https://www.linkedin.com/in/mohammed-shahid-sait-jii/)
 
 
 <!-- Typing Effect + GIF -->
